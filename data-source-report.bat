@@ -7,7 +7,7 @@ rem NOTE: Set the value of these local variables
 set JBOSS_HOME=C:\java\jboss-eap-6.4
 set JBOSS_MANAGEMENT_IP=10.0.0.121
 set JBOSS_MANAGEMENT_PORT=9999
-set LOG_FILE=data-source-report.csv
+set LOG_FILE=C:\java\jboss-eap-6.4\scripts\data-source-report.csv
 
 rem NOTE: DO NOT CHANGE ANYTHING BELOW THIS
 
