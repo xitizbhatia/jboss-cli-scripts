@@ -1,7 +1,7 @@
 @echo off & setlocal enabledelayedexpansion
 rem script to query jboss datasources
 rem author xitiz bhatia (xitizbhatia@gmail.com)
-rem version 1.4
+rem version 1.5
 rem NOTE: Set the value of these local variables
 rem NOTE: If the password contains & then prefix it with three ^ i.e. ^^^ and don't remove double quotes around it below
 
